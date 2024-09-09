@@ -65,7 +65,7 @@ function AboutUs() {
                         <div className="tab-content team-grid">
                             <div className="team-card">
                                 <img src={doctor1} alt="Dr. John Doe" className="team-photo" />
-                                <h3 className="team-name">Dr. John Doe</h3>
+                                <h3 className="team-name">Dr. Elizabeth Blackwell</h3>
                                 <p className="team-role">Chief Medical Officer</p>
                             </div>
                             <div className="team-card">
