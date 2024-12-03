@@ -17,7 +17,7 @@ function HeroSection() {
           <p className="hero-description">
             At Cura Health, we provide world-class medical services with a focus on patient care. Our team of experienced professionals is dedicated to improving your well-being.
           </p>
-          <button className="hero-button">Learn More</button>
+          <button className="hero-button">Care Hub</button>
         </div>
       </div>
       <Footer/>
